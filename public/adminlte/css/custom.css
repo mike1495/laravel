@@ -1,0 +1,32 @@
+html,
+body {
+    height: 100% !important;
+    width: 100% !important;
+}
+
+body {
+    background: #c7b9b952;
+}
+
+.label {
+    margin-right: 5px;
+    margin-bottom: 5px !important;
+    display: inline-block;
+}
+
+#wrapper {
+    position: relative;
+}
+
+.skin-blue .main-header .navbar {
+    background-image: linear-gradient(to left, #1b466f, #304c70, #3f5172, #4c5873, #575e74);}
+
+.skin-blue .main-header .logo {
+    background-image: linear-gradient(to right, #1b466f, #304c70, #3f5172, #4c5873, #575e74);
+}
+
+.skin-blue .wrapper,
+.skin-blue .main-sidebar,
+.skin-blue .left-side {
+    background-image: linear-gradient(to right, #1b466f, #304c70, #3f5172, #4c5873, #575e74);
+}
